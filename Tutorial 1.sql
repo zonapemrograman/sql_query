@@ -67,3 +67,5 @@ update users set email = "bskask" where id = sjs;
 delete from users where id = blabla;
 
 truncate table;
+
+distinct for unique value
